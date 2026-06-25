@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Vim cheatsheet](README.md)
+* [Vim cheatsheet](vim-cheatsheet.md)
