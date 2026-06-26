@@ -1,8 +1,5 @@
 # Vim cheatsheet
 
-Vim is a highly efficient text editor because almost every single key on your keyboard is mapped to an intentional action depending on what "mode" you are in.
-
-By combining the absolute best structures, advanced combinations, and essential shortcuts from classic guides like `vim.rtorr.com`, Stanford's CS110 handout, and `devhints.io`, here is your ultimate, fully comprehensive Vim master cheat sheet.
 
 ***
 
